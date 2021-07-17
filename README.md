@@ -1,8 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/aM0sXKT.png" /></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yassine BOUKHATEM</h1>
 <h3 align="center"><span>&#8221;</span>
 A self-motivated tech enthusiast.<span>&#8221;</span></h3>
+<a align="center" href="#"><img width="80%" height="auto" src="https://user-images.githubusercontent.com/69581624/126050907-4f48efd8-6407-4657-be77-5424995a8e34.png" /></a>
 <br>
 
 
@@ -10,10 +11,10 @@ A self-motivated tech enthusiast.<span>&#8221;</span></h3>
 <br>
 <p>
     <a href="https://badgr.com/public/assertions/N2KmlfcSQou-16QxaWVgqA">
-        <img src="" alt="GCA101">
+        <img src="https://user-images.githubusercontent.com/69581624/126050966-3a46878e-6a69-4868-a44d-cbd414aaacca.png" width="80px" height="auto" alt="GCA101">
     </a>
     <a href="https://analytics.google.com/analytics/academy/certificate/7MLoVX3ERXugaVA9Cg6hMA">
-        <img src="" alt="googleanalytics">
+        <img src="https://media-exp1.licdn.com/dms/image/C560BAQHP0r7lPKrzaA/company-logo_100_100/0/1621746442222?e=1634774400&v=beta&t=cmzj-pHva4_pO5O8x70eyDY9Ha8HR4S7UXlA5H2keb8" width="80px" height="auto"alt="googleanalytics">
     </a>
 
 
