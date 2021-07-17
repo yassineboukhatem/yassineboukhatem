@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yassine BOUKHATEM</h1>
 <h3 align="center"><span>&#8221;</span>
 A self-motivated tech enthusiast.<span>&#8221;</span></h3>
-<a align="center" href="#"><img width="80%" height="auto" src="https://user-images.githubusercontent.com/69581624/126050907-4f48efd8-6407-4657-be77-5424995a8e34.png" /></a>
+<a href="#"><img align="center" width="70%" height="auto" src="https://user-images.githubusercontent.com/69581624/126050907-4f48efd8-6407-4657-be77-5424995a8e34.png" /></a>
 <br>
 
 
